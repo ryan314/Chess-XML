@@ -1,0 +1,20 @@
+<chess>
+	<piece>
+		<name>Queen</name>
+	</piece> 
+	<piece>
+		<name>King</name>
+	</piece>
+	<piece>
+		<name>Rook</name>
+	</piece>
+	<piece>
+		<name>Bishop</name>
+	</piece>
+	<piece>
+		<name>Knight</name>
+	</piece>
+	<piece>
+		<name>Pawn</name>
+	</piece>
+</chess>
